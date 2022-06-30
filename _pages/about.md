@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Computer Engineering Student at Middle East Technical University 
-Undergraduate Researcher at University of Cambridge, UK
+subtitle: Senior Computer Engineering Student at Middle East Technical University | Undergraduate Researcher at University of Cambridge, UK
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
