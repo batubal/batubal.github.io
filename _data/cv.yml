@@ -17,10 +17,10 @@
       description:
         - title: Computer Engineering
           contents:
-            - GPA{:} 3.64
+            - GPA<b>:</b> 3.64
         - title: Mathematics (Minor)
           contents:
-            - GPA{:} 3.69
+            - GPA<b>:</b> 3.69
 
 - title: Experience
   type: time_table
@@ -66,7 +66,7 @@
   contents:
     - year: 2022
       items: 
-        - 1st rank in CENG DemoDay 2022 (Graduation Project Fair) with <a href="https://senior.ceng.metu.edu.tr/2022/DIP/">DIP project.
+        - 1st rank in CENG DemoDay 2022 (Graduation Project Fair) with <a href="https://senior.ceng.metu.edu.tr/2022/DIP/">DIP</a> project.
 
 - title: Academic Interests
   type: nested_list
@@ -81,4 +81,4 @@
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Bridge, Table Tennis
+    - <b>Hobbies:</b> Bridge, Table Tennis

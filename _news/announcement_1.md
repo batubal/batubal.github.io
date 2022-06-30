@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2022-06-14 15:59:00-0400
 inline: true
 ---
 
-A simple inline announcement.
+Our graduation project DIP (Dynamic Insurance Pricing) was selected first among all projects participating in CENG DemoDay 2022.

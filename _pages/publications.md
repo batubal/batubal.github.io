@@ -17,11 +17,11 @@ nav_order: 1
 
 </div> -->
 <div class="publications">
-  <h2 class="year">\textbf{2022}</h2>
+  <h2 class="year"><b>2022</b></h2>
   
 </div>
 
 <div class="publications">
-  <h2 class="year">\textbf{2021}</h2>
-  Y. Terzioglu, O. Aslan, B. Bolat, \textbf{B. Bal}, T. Tumer, F. C. Kurnaz, S. Kalkan, E. Sahin, "APPRENTICE: Towards a Cobot Helper in Assembly Lines", ICRA2021 Workshop on Unlocking the Potential of HRC for Industrial Applications, 2021. <a href="https://kovan.ceng.metu.edu.tr/~sinan/Terzioglu_ICRA2021WS.pdf">(PDF)
+  <h2 class="year"><b>2021</b></h2>
+  Y. Terzioglu, O. Aslan, B. Bolat, <b>B. Bal</b>, T. Tumer, F. C. Kurnaz, S. Kalkan, E. Sahin, "APPRENTICE: Towards a Cobot Helper in Assembly Lines", ICRA2021 Workshop on Unlocking the Potential of HRC for Industrial Applications, 2021. <a href="https://kovan.ceng.metu.edu.tr/~sinan/Terzioglu_ICRA2021WS.pdf">(PDF)</a>
 </div>
