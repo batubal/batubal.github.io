@@ -2,7 +2,8 @@
 layout: about
 title: about
 permalink: /
-subtitle: Senior Student at Middle East Technical University, Turkey | Undergraduate Researcher at University of Cambridge, UK
+subtitle: Senior Computer Engineering Student at Middle East Technical University 
+Undergraduate Researcher at University of Cambridge, UK
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
@@ -10,7 +11,6 @@ profile:
   image: prof_pic.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>Ankara, Turkey</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
