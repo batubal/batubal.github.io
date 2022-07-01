@@ -11,7 +11,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: Bsc
+    - title: BSc
       institution: Middle East Technical University, Ankara, Turkey 
       year: 2017 - 2023
       description:
@@ -29,14 +29,14 @@
       institution: Affective Intelligence and Robotics Lab, University of Cambridge, UK
       year: 2021 - Present
       description:
-        - title: Project 2
+        - title: Project 2<b>:</b>
           contents:
             - Facial Reaction Prediction
             - Generative Adversarial Network (GAN)
             - Work on project which aims to develop multi-modal network whose input is the audio-visual non-verbal cues
                           displayed by the conversational partner (i.e., the speaker), and the output is the target subject’s (i.e., the listener)
                           facial reaction.
-        - title: Project 1
+        - title: Project 1<b>:</b>
           contents:
             - Facial Action Unit Recognition
             - Self-Supervised Learning
@@ -46,10 +46,9 @@
       institution: KOVAN Research Lab, Ankara, Turkey
       year: 2020 - 2021
       description:
-        - title: Project Description
+        - title: Project Description<b>:</b>
           contents:
             - Reinforcement Learning
-            - 3D Object Recognition
             - Work on project which aims to learn automated assembly plan with just the 3D target object provided.
             - Create a reward function to use in deep reinforcement learning algorithm by comparing two point cloud object
                         using Iterative Closest Point algorithm.
