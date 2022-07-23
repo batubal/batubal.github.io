@@ -17,10 +17,10 @@
       description:
         - title: Computer Engineering
           contents:
-            - GPA<b>:</b> 3.64
+            - GPA<b>:</b> 3.75
         - title: Mathematics (Minor)
           contents:
-            - GPA<b>:</b> 3.69
+            - GPA<b>:</b> 3.50
 
 - title: Experience
   type: time_table
