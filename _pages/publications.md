@@ -10,7 +10,7 @@ nav_order: 1
 
 <div class="publications">
   <h1 class="year">2022</h1>
-  O. Aslan, B. Bolat, <b>B. Bal</b>, T. Tumer, E. Sahin, S. Kalkan, "AssembleRL: Learning to Assemble Furniture from Their Point Clouds", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), accepted, 2022.
+  O. Aslan, B. Bolat, <b>B. Bal</b>, T. Tumer, E. Sahin, S. Kalkan, <a href="[https://kovan.ceng.metu.edu.tr/~sinan/Terzioglu_ICRA2021WS.pdf](https://arxiv.org/pdf/2209.07268.pdf)">"AssembleRL: Learning to Assemble Furniture from Their Point Clouds"</a>, IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), accepted, 2022.
 </div>
 
 <div class="publications">
